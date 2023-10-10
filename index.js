@@ -1,0 +1,1 @@
+console.log("Welcome new student! You are about to start a new journey in which you will invest a lot of energy. Keep going no matter what challenges you encounter. You can do this!")
